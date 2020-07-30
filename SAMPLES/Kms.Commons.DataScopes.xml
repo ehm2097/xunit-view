@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<xunit-test-project>
+  <base-folder>C:\Projects\Kms.Net\DataScopes\1.0</base-folder>
+  <xunit-path>packages\xunit.runner.console.2.4.1\tools\net452\xunit.console.exe</xunit-path>
+  <test-dlls>
+    <test-dll>Test.EndToEnd\bin\Debug\Test.EndToEnd.dll</test-dll>
+    <test-dll>Test.Unit\bin\Debug\Test.Unit.dll</test-dll>
+  </test-dlls>
+</xunit-test-project>
