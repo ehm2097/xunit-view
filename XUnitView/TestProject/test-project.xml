@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<xunit-test-project>
+  <base-folder>C:\Projects\Teste Diverse\XUnitAtWork</base-folder>
+  <xunit-path>packages\xunit.runner.console.2.4.1\tools\net452\xunit.console.exe</xunit-path>
+  <test-dlls>
+    <test-dll>UnitTest\bin\Debug\UnitTest.dll</test-dll>
+    <test-dll>EndToEndTest\bin\Debug\EndToEndTest.dll</test-dll>
+  </test-dlls>
+</xunit-test-project>
